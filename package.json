@@ -1,0 +1,23 @@
+{
+  "name": "npm-pack-manage-semantic-release",
+  "version": "0.0.0-development",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodeLittlePrince/npm-pack-manage-semantic-release.git"
+  },
+  "author": "zixiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeLittlePrince/npm-pack-manage-semantic-release/issues"
+  },
+  "homepage": "https://github.com/CodeLittlePrince/npm-pack-manage-semantic-release#readme",
+  "devDependencies": {
+    "semantic-release": "^17.4.4"
+  }
+}
