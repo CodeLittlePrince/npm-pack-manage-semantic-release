@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/CodeLittlePrince/npm-pack-manage-semantic-release/compare/v1.0.0...v1.1.0) (2021-06-30)
+
+
+### Features
+
+* little change ([ccbe13d](https://github.com/CodeLittlePrince/npm-pack-manage-semantic-release/commit/ccbe13d573041b6e604ef732b11daf338f6735dc))
+
 # 1.0.0 (2021-06-29)
 
 
