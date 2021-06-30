@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/CodeLittlePrince/npm-pack-manage-semantic-release/compare/v1.1.0...v1.2.0) (2021-06-30)
+
+
+### Features
+
+* hehe ([6cfd844](https://github.com/CodeLittlePrince/npm-pack-manage-semantic-release/commit/6cfd84427d76a61600128decdf019c80471c780e))
+
+
+### Reverts
+
+* 恢复 ([606a71c](https://github.com/CodeLittlePrince/npm-pack-manage-semantic-release/commit/606a71cdb70fcba57a4f5bcac33a7e7f9ed161d3))
+
 # [1.1.0](https://github.com/CodeLittlePrince/npm-pack-manage-semantic-release/compare/v1.0.0...v1.1.0) (2021-06-30)
 
 
